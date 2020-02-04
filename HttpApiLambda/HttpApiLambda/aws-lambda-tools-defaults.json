@@ -1,0 +1,10 @@
+
+{
+    "region" : "us-west-2",
+    "profile" : "sandbox",
+    "configuration" : "Release",
+    "framework"     : "netcoreapp2.1",
+    "s3-bucket"     : "holmes-testing",
+    "template"      : "serverless.template",
+    "stack-name"    : "HttpApiLambda"
+}
